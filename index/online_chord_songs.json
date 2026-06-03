@@ -1,0 +1,868 @@
+[
+  {
+    "title": "Don't Know Why",
+    "short_title": "Don't Know Why",
+    "url": "/v2/pack0.zip",
+    "hash": "1ej3oQDFPtyyKWrb-tnJIn9h3DFpM595Hj5Aug",
+    "priority": 94,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "01023s3",
+      "23245s2",
+      "000220",
+      "112331",
+      "300023"
+    ]
+  },
+  {
+    "title": "Pesnyary - Malitva",
+    "short_title": "Pesnyary - Malitva",
+    "url": "/v2/pack2.zip",
+    "hash": "ZyeP1svSzpV8lbOu8R99PLO076ZGWddCfOKzrQ",
+    "priority": 1000,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "8910108s8",
+      "36553s3",
+      "35553s3",
+      "68886s6",
+      "445664",
+      "46564s4",
+      "46664s4",
+      "34553s3",
+      "686876",
+      "666886"
+    ]
+  },
+  {
+    "title": "Hymn - Pahonia",
+    "short_title": "Hymn - Pahonia",
+    "url": "/v2/pack3.zip",
+    "hash": "0-9pdunEFXF4ra57etg-73AjNzfmLAwIf_tdTQ",
+    "priority": 1003,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "333553",
+      "112331",
+      "68886s6",
+      "34353s3",
+      "57775s5",
+      "8887**",
+      "667886",
+      "58775s5",
+      "57575s5"
+    ]
+  },
+  {
+    "title": "N.R.M - Try charapachi",
+    "short_title": "N.R.M - Try charapachi",
+    "url": "/v2/pack4.zip",
+    "hash": "GNeLImlHj7jQIVeLwabb1CTX9e8Dnl_EzQLgmw",
+    "priority": 1002,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "24442s2",
+      "223442",
+      "444664",
+      "001220",
+      "25442s2"
+    ]
+  },
+  {
+    "title": "Voiny sveta",
+    "short_title": "Voiny sveta",
+    "url": "/v2/pack5.zip",
+    "hash": "Nmut_3wgDjINp26pPrNvE9BwBzWFHf67hmQDtg",
+    "priority": 1001,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "555775",
+      "112331",
+      "334553",
+      "35553s3"
+    ]
+  },
+  {
+    "title": "Sunny day",
+    "short_title": "Sunny day",
+    "url": "/v2/pack6.zip",
+    "hash": "JnDUzzqLhhjmDGw0IHh6CrfRe1i3C2e1G038yg",
+    "priority": 123,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "35553s3",
+      "555775",
+      "56775s5",
+      "334553"
+    ]
+  },
+  {
+    "title": "Jungle",
+    "short_title": "Jungle",
+    "url": "/v2/pack7.zip",
+    "hash": "ER1Xl9ihhfXMuhUm_ns-xUQn_qgewObsSWdmdA",
+    "priority": 134,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "45467s4",
+      "24442s2",
+      "444664",
+      "556775"
+    ]
+  },
+  {
+    "title": "Her Life",
+    "short_title": "Her Life",
+    "url": "/v2/pack8.zip",
+    "hash": "ahqt_Soc5X-0nEIiof1HCG_PxtYyfwuXDeQVcA",
+    "priority": 133,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "555775",
+      "334553",
+      "112331",
+      "35553s3"
+    ]
+  },
+  {
+    "title": "Happy Day",
+    "short_title": "Happy Day",
+    "url": "/v2/pack9.zip",
+    "hash": "lwlORVk6lklBJCdDUltjRQQ74xRpB-6ZrsvFPg",
+    "priority": 100,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "35553s3",
+      "334553",
+      "555775",
+      "112331"
+    ]
+  },
+  {
+    "title": "Flowers On The River",
+    "short_title": "Flowers On The River",
+    "url": "/v2/pack10.zip",
+    "hash": "7Rm-AK7k2Cr6ltiO2ruIQkdtppVLmTsY80jz8g",
+    "priority": 131,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "01023s3",
+      "112331"
+    ]
+  },
+  {
+    "title": "Empty City",
+    "short_title": "Empty City",
+    "url": "/v2/pack11.zip",
+    "hash": "6eoIcTOLPeSwzydTuPWon2OIXVYJwiaWhHr8SA",
+    "priority": 97,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "000220",
+      "01023s3",
+      "012200"
+    ]
+  },
+  {
+    "title": "Bad Boy",
+    "short_title": "Bad Boy",
+    "url": "/v2/pack12.zip",
+    "hash": "-Y1S8-UeUw_ptyUjVyO6TGrOsng-xGiT3f4LHQ",
+    "priority": 132,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "555775",
+      "334553",
+      "112331",
+      "35553s3",
+      "56775s5"
+    ]
+  },
+  {
+    "title": "Gravitation",
+    "short_title": "Gravitation",
+    "url": "/v2/pack13.zip",
+    "hash": "a9RVHwZ9iJsXLyt1Txj6j9j0tOlDq7FBGl9eUQ",
+    "priority": 101,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "445664",
+      "34553s3",
+      "13331*",
+      "111331",
+      "34356s3"
+    ]
+  },
+  {
+    "title": "Follow the River",
+    "short_title": "Follow the River",
+    "url": "/v2/pack14.zip",
+    "hash": "cu-6Exp6RqIpocOTz9dutSWKbR06sDoePZuytA",
+    "priority": 102,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "35553s3",
+      "555775",
+      "56775s5",
+      "112331",
+      "334553"
+    ]
+  },
+  {
+    "title": "Eternity",
+    "short_title": "Eternity",
+    "url": "/v2/pack15.zip",
+    "hash": "hnG21T0sr8pYf2RJJH8wl6nmVpn7t6tlHSz_fw",
+    "priority": 101,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "34553s3",
+      "667886",
+      "411134",
+      "111331"
+    ]
+  },
+  {
+    "title": "Friends",
+    "short_title": "Friends",
+    "url": "/v2/pack16.zip",
+    "hash": "EoKNJquWyCWxufpr75rPIWhf-gvNrTz97bL7Iw",
+    "priority": 139,
+    "ads_lock": null,
+    "available_only_in_full": false,
+    "chords": [
+      "34356s3",
+      "34553s3",
+      "667886",
+      "445664"
+    ]
+  },
+  {
+    "title": "Mountain At My Gates",
+    "short_title": "Mountain At My Gates",
+    "url": "/v2/pack17.zip",
+    "hash": "M6NUVrLDYF4S1pIu6OcXKnH5xXp6YIdg8CRxsg",
+    "priority": 95,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "000220",
+      "01023s3",
+      "334553",
+      "555775",
+      "23245s2"
+    ]
+  },
+  {
+    "title": "Drive Fast",
+    "short_title": "Drive Fast",
+    "url": "/v2/pack18.zip",
+    "hash": "sxSutKJhhVhAkTakQEhSRGGdl7YCP-h1c-DgKA",
+    "priority": 129,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "01023s3",
+      "112331",
+      "300023",
+      "23245s2",
+      "001220"
+    ]
+  },
+  {
+    "title": "Blue Skies",
+    "short_title": "Blue Skies",
+    "url": "/v2/pack19.zip",
+    "hash": "xUMPAyKgVCvmAqRxYsW2DmmFldXnawaoo-tAYw",
+    "priority": 128,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "01023s3",
+      "012200",
+      "300023",
+      "112331"
+    ]
+  },
+  {
+    "title": "Twinkle Twinkle Little Star",
+    "short_title": "Twinkle Twinkle Little Star",
+    "url": "/v2/pack20.zip",
+    "hash": "7gdU0BhN_drIcLGsXVAVHDQvJyr_V2pv2eZTIg",
+    "priority": 127,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "01023s3",
+      "112331",
+      "300023"
+    ]
+  },
+  {
+    "title": "Greensleeves",
+    "short_title": "Greensleeves",
+    "url": "/v2/pack21.zip",
+    "hash": "tJUuRRZayyuqbV4fTGwma33oM2mHEI8Q_Gy9aQ",
+    "priority": 126,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "012200",
+      "300023",
+      "112331",
+      "001220",
+      "01023s3"
+    ]
+  },
+  {
+    "title": "Cutting Edges",
+    "short_title": "Cutting Edges",
+    "url": "/v2/pack22.zip",
+    "hash": "zgXaNuMo5ydZ9UEX1QmGit8K1r7bRHIRVIk1lw",
+    "priority": 125,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "56775s5",
+      "334553",
+      "112331",
+      "556775",
+      "35553s3"
+    ]
+  },
+  {
+    "title": "Questions",
+    "short_title": "Questions",
+    "url": "/v2/pack23.zip",
+    "hash": "0oa4nMOONq8SFlFtRAArxItaDq4h1WPiSkCtyg",
+    "priority": 124,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "000220",
+      "012200",
+      "23245s2",
+      "01023s3",
+      "300023"
+    ]
+  },
+  {
+    "title": "Starlight Night [Halloween]",
+    "short_title": "Starlight Night [Halloween]",
+    "url": "/v2/pack24.zip",
+    "hash": "qG9fK6UJsKhh-PDf_S1jCol2yH6K7p6WAbSewQ",
+    "priority": 106,
+    "ads_lock": false,
+    "available_only_in_full": null,
+    "chords": [
+      "57775s5",
+      "35553s3",
+      "23442s2",
+      "13331*"
+    ]
+  },
+  {
+    "title": "Era Of Black Mirrors [Halloween]",
+    "short_title": "Era Of Black Mirrors [Halloween]",
+    "url": "/v2/pack25.zip",
+    "hash": "N73-i6YB5dls8hYVYwttmMxCdhvGiiBwjlKrFw",
+    "priority": 105,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "555775",
+      "111331"
+    ]
+  },
+  {
+    "title": "Nightmare [Halloween]",
+    "short_title": "Nightmare [Halloween]",
+    "url": "/v2/pack26.zip",
+    "hash": "EpmzP3MnvOBTamYdQxm8Ndz4YItFjdhoC52dGg",
+    "priority": 104,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "78997s7",
+      "778997",
+      "68886s6"
+    ]
+  },
+  {
+    "title": "Witch song [Halloween]",
+    "short_title": "Witch song [Halloween]",
+    "url": "/v2/pack27.zip",
+    "hash": "kgC-_GRWOB6-r1MobIlqH89pKQtICQq-Hiwvlg",
+    "priority": 103,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "555775",
+      "445664",
+      "334553",
+      "23245s2"
+    ]
+  },
+  {
+    "title": "All I Need",
+    "short_title": "All I Need",
+    "url": "/v2/pack28.zip",
+    "hash": "eS0zBrZ1aeF902zybslzNa3SSoLd9tN8gcstbA",
+    "priority": 138,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "35553s3",
+      "555775",
+      "78997s7",
+      "57775s5"
+    ]
+  },
+  {
+    "title": "Feel It Again",
+    "short_title": "Feel It Again",
+    "url": "/v2/pack29.zip",
+    "hash": "b_dGFcBQQkPoc2JRcbSHD1orw2IQun4Ys5sC0Q",
+    "priority": 106,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "012200",
+      "01023s3",
+      "112331",
+      "300023",
+      "56775s5"
+    ]
+  },
+  {
+    "title": "Silent Night",
+    "short_title": "Silent Night",
+    "url": "/v2/pack30.zip",
+    "hash": "7F4ZM7A0So1cDGQXu1GE9kS189sZx2gyLcGaew",
+    "priority": 124,
+    "ads_lock": false,
+    "available_only_in_full": null,
+    "chords": [
+      "01023s3",
+      "334553",
+      "112331",
+      "434353",
+      "555775"
+    ]
+  },
+  {
+    "title": "Away In A Manger",
+    "short_title": "Away In A Manger",
+    "url": "/v2/pack31.zip",
+    "hash": "UbsCetI2AY-co_iJgzOQUcd8a9MAEO7FqYU_3g",
+    "priority": 107,
+    "ads_lock": false,
+    "available_only_in_full": null,
+    "chords": [
+      "334553",
+      "23245s2",
+      "01023s3",
+      "000220",
+      "24442s2"
+    ]
+  },
+  {
+    "title": "Jingle Bells",
+    "short_title": "Jingle Bells",
+    "url": "/v2/pack32.zip",
+    "hash": "wxptmu5-wMudoCfKSWYm7Lu_AritmJqZHuk1CA",
+    "priority": 108,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "334553",
+      "35553s3",
+      "57775s5",
+      "556775",
+      "555775"
+    ]
+  },
+  {
+    "title": "We Wish You A Merry Christmas",
+    "short_title": "We Wish You A Merry Christmas",
+    "url": "/v2/pack33.zip",
+    "hash": "fXQsL0Jf0LS1SMQYPZx73Ixtb6dUV67Wsai6OA",
+    "priority": 107,
+    "ads_lock": false,
+    "available_only_in_full": null,
+    "chords": [
+      "112331",
+      "13331*",
+      "334553",
+      "35553s3",
+      "556775"
+    ]
+  },
+  {
+    "title": "House Of The Rising Sun",
+    "short_title": "House Of The Rising Sun",
+    "url": "/v2/pack34.zip",
+    "hash": "o2ZqMh5tAdejf6NtTk8cHzZRS98OVNbkgxkFFQ",
+    "priority": 106,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "012200",
+      "01023s3",
+      "2320**",
+      "112331",
+      "001220"
+    ]
+  },
+  {
+    "title": "O Come, O Come, Emmanuel",
+    "short_title": "O Come, O Come, Emmanuel",
+    "url": "/v2/pack35.zip",
+    "hash": "rjh_i4uxvue_3Ul9zy9ZSXcckxEqDdtcyOVYZQ",
+    "priority": 108,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "334553",
+      "01023s3",
+      "012200",
+      "2320**",
+      "000220"
+    ]
+  },
+  {
+    "title": "Oh, Susanna!",
+    "short_title": "Oh, Susanna!",
+    "url": "/v2/pack36.zip",
+    "hash": "GZJHq2Zb64gmZbFyDa4cOn4fRJlVC99NVKfnqA",
+    "priority": 109,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "68886s6",
+      "667886",
+      "445664"
+    ]
+  },
+  {
+    "title": "Une souris verte",
+    "short_title": "Une souris verte",
+    "url": "/v2/pack37.zip",
+    "hash": "PRMgp9mLcsZcQdLuKciQ8DIAnRC9cAbashqCbQ",
+    "priority": 110,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "334553",
+      "012200",
+      "2320**",
+      "01023s3"
+    ]
+  },
+  {
+    "title": "Frère Jacques",
+    "short_title": "Frère Jacques",
+    "url": "/v2/pack38.zip",
+    "hash": "s-qn8XL32GTd66yhKmYCPQNmcwloZt469ZeqoQ",
+    "priority": 111,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "112331",
+      "1320**",
+      "13331*"
+    ]
+  },
+  {
+    "title": "Green Valley",
+    "short_title": "Green Valley",
+    "url": "/v2/pack39.zip",
+    "hash": "UNS3lyFXldJ8vffjrgRnEUxcuUYAMCVm_jyBdw",
+    "priority": 137,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "334553",
+      "23245s2",
+      "555775",
+      "35553s3"
+    ]
+  },
+  {
+    "title": "When The Saints Go Marching In",
+    "short_title": "When The Saints Go Marching In",
+    "url": "/v2/pack40.zip",
+    "hash": "hfm5RtDSif-fc6hGXJ_gQRbfzeQ5Dc2imefMSw",
+    "priority": 112,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "01023s3",
+      "334553",
+      "112331",
+      "46664s4",
+      "445664"
+    ]
+  },
+  {
+    "title": "Auld Lang Syne",
+    "short_title": "Auld Lang Syne",
+    "url": "/v2/pack41.zip",
+    "hash": "_hp_4zbDHwGFZNel3k4cFgKVTqeL03XvQa5psA",
+    "priority": 113,
+    "ads_lock": false,
+    "available_only_in_full": null,
+    "chords": [
+      "01023s3",
+      "300023",
+      "112331",
+      "012200"
+    ]
+  },
+  {
+    "title": "Down By The Riverside",
+    "short_title": "Down By The Riverside",
+    "url": "/v2/pack42.zip",
+    "hash": "ojjreh3Wl772uuS9vrUlJT_gvKIVa2rCXlCtIA",
+    "priority": 114,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "300023",
+      "2320**",
+      "01023s3",
+      "000220"
+    ]
+  },
+  {
+    "title": "Amazing Grace",
+    "short_title": "Amazing Grace",
+    "url": "/v2/pack43.zip",
+    "hash": "oRTYsY9ea5GyQV2QbJZOAOpE2izB2vPNvOzB2Q",
+    "priority": 115,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "2320**",
+      "300023",
+      "02220*",
+      "23442s2"
+    ]
+  },
+  {
+    "title": "El Buen Rey Wenceslao",
+    "short_title": "El Buen Rey Wenceslao",
+    "url": "/v2/pack44.zip",
+    "hash": "tW9B5DANF51XHkTNikBoVIULv8hMFR0umPJF9w",
+    "priority": 116,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "445664",
+      "46664s4",
+      "34356s3",
+      "111331"
+    ]
+  },
+  {
+    "title": "Hoochy Coochy East Dance",
+    "short_title": "Hoochy Coochy East Dance",
+    "url": "/v2/pack45.zip",
+    "hash": "ndrbibEsgF7rfaiDHjB9ZSqeQnwYtpTNmbaAHA",
+    "priority": 117,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "34553s3",
+      "111331",
+      "667886",
+      "68886s6",
+      "445664"
+    ]
+  },
+  {
+    "title": "Black Velvet",
+    "short_title": "Black Velvet",
+    "url": "/v2/pack46.zip",
+    "hash": "vbC34yzYQ5KZfbGL8Q04q6GdG_n5mHmP4y8M1A",
+    "priority": 118,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "334553",
+      "2320**"
+    ]
+  },
+  {
+    "title": "Ten Little Indians",
+    "short_title": "Ten Little Indians",
+    "url": "/v2/pack47.zip",
+    "hash": "qYWYG4t49XlQq_5W51yp_09U-aKhvMHNgDp6RQ",
+    "priority": 119,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "35553s3",
+      "334553"
+    ]
+  },
+  {
+    "title": "My Game",
+    "short_title": "My Game",
+    "url": "/v2/pack48.zip",
+    "hash": "SOaL70_2mi2jzTnNBRZmqrAUNZoqSnQw38k0rA",
+    "priority": 120,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "56775s5",
+      "13331*",
+      "333553",
+      "01023s3"
+    ]
+  },
+  {
+    "title": "Way To Stay",
+    "short_title": "Way To Stay",
+    "url": "/v2/pack49.zip",
+    "hash": "h3oA-E4NBOJND7C312Q-9xSSdZ0oK0eJw16rEQ",
+    "priority": 121,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "23442s2",
+      "02220*",
+      "000220",
+      "23245s2"
+    ]
+  },
+  {
+    "title": "Long Road",
+    "short_title": "Long Road",
+    "url": "/v2/pack50.zip",
+    "hash": "jiFBwJzxGHuXUqz1GnJ2tCImMVU-jzlwUPefgA",
+    "priority": 99,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "777997",
+      "334553",
+      "57775s5"
+    ]
+  },
+  {
+    "title": "Feel It Again",
+    "short_title": "Feel It Again",
+    "url": "/v2/pack51.zip",
+    "hash": "b_dGFcBQQkPoc2JRcbSHD1orw2IQun4Ys5sC0Q",
+    "priority": 122,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "012200",
+      "01023s3",
+      "112331",
+      "300023",
+      "56775s5"
+    ]
+  },
+  {
+    "title": "Habanera",
+    "short_title": "Habanera",
+    "url": "/v2/pack52.zip",
+    "hash": "5c8AIQe8Y2GKeZwKH1WSB-74FeMl7kJRO9z-sA",
+    "priority": 999,
+    "ads_lock": null,
+    "available_only_in_full": false,
+    "chords": [
+      "56775s5",
+      "556575"
+    ]
+  },
+  {
+    "title": "Dance of the Little Swans",
+    "short_title": "Dance of the Little Swans",
+    "url": "/v2/pack53.zip",
+    "hash": "vmgBbxObtto7dTkPyTO3aNIQq-mw2Ia10iALJA",
+    "priority": 999,
+    "ads_lock": null,
+    "available_only_in_full": false,
+    "chords": [
+      "333553",
+      "112331"
+    ]
+  },
+  {
+    "title": "Sunday Morning",
+    "short_title": "Sunday Morning",
+    "url": "/v2/pack54.zip",
+    "hash": "cTPXVRTTRnicH1Vdjrh76VMOqp-q4sRfLbZS2w",
+    "priority": 136,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "35553s3",
+      "333553",
+      "112331",
+      "334553"
+    ]
+  },
+  {
+    "title": "Shine",
+    "short_title": "Shine",
+    "url": "/v2/pack55.zip",
+    "hash": "v7ZEPj-EKEr5YmkFgVYUNx9KXGm6ownnf1NyjQ",
+    "priority": 98,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "555775",
+      "112331",
+      "35553s3"
+    ]
+  },
+  {
+    "title": "Rock On",
+    "short_title": "Rock On",
+    "url": "/v2/pack56.zip",
+    "hash": "cyNoGlT-NbFLSTLZ1ALzSYAb-IPTHgbMFdLvOw",
+    "priority": 135,
+    "ads_lock": true,
+    "available_only_in_full": null,
+    "chords": [
+      "34553s3",
+      "112331",
+      "13331*"
+    ]
+  },
+  {
+    "title": "Pages",
+    "short_title": "Pages",
+    "url": "/v2/pack57.zip",
+    "hash": "NdKhU2ba8pxsy6EW24oYNWvwMrOzqGbvABm-aA",
+    "priority": 130,
+    "ads_lock": null,
+    "available_only_in_full": true,
+    "chords": [
+      "01023s3",
+      "012200",
+      "000220",
+      "23245s2"
+    ]
+  }
+]
