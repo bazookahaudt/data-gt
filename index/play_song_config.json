@@ -1,0 +1,1170 @@
+{
+  "version": 2,
+  "updatedAt": "2026-06-03T03:50:16.978Z",
+  "github": {
+    "repository": "https://github.com/bazookahaudt/data-gt",
+    "branch": "master",
+    "rawBaseUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master",
+    "onlineSongsUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/index/online_chord_songs.json",
+    "playSongConfigUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/index/play_song_config.json",
+    "manifestUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/manifest.txt"
+  },
+  "counts": {
+    "localSongs": 8,
+    "onlineSongs": 57,
+    "totalSongs": 65
+  },
+  "onlineSongs": [
+    {
+      "title": "Don't Know Why",
+      "shortTitle": "Don't Know Why",
+      "source": "github",
+      "isRemote": true,
+      "hash": "1ej3oQDFPtyyKWrb-tnJIn9h3DFpM595Hj5Aug",
+      "priority": 94,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "01023s3",
+        "23245s2",
+        "000220",
+        "112331",
+        "300023"
+      ],
+      "githubDir": "songs/pack0_don_t_know_why",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack0_don_t_know_why/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack0_don_t_know_why/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Pesnyary - Malitva",
+      "shortTitle": "Pesnyary - Malitva",
+      "source": "github",
+      "isRemote": true,
+      "hash": "ZyeP1svSzpV8lbOu8R99PLO076ZGWddCfOKzrQ",
+      "priority": 1000,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "8910108s8",
+        "36553s3",
+        "35553s3",
+        "68886s6",
+        "445664",
+        "46564s4",
+        "46664s4",
+        "34553s3",
+        "686876",
+        "666886"
+      ],
+      "githubDir": "songs/pack2_pesnyary_malitva",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack2_pesnyary_malitva/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack2_pesnyary_malitva/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Hymn - Pahonia",
+      "shortTitle": "Hymn - Pahonia",
+      "source": "github",
+      "isRemote": true,
+      "hash": "0-9pdunEFXF4ra57etg-73AjNzfmLAwIf_tdTQ",
+      "priority": 1003,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "333553",
+        "112331",
+        "68886s6",
+        "34353s3",
+        "57775s5",
+        "8887**",
+        "667886",
+        "58775s5",
+        "57575s5"
+      ],
+      "githubDir": "songs/pack3_hymn_pahonia",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack3_hymn_pahonia/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack3_hymn_pahonia/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "N.R.M - Try charapachi",
+      "shortTitle": "N.R.M - Try charapachi",
+      "source": "github",
+      "isRemote": true,
+      "hash": "GNeLImlHj7jQIVeLwabb1CTX9e8Dnl_EzQLgmw",
+      "priority": 1002,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "24442s2",
+        "223442",
+        "444664",
+        "001220",
+        "25442s2"
+      ],
+      "githubDir": "songs/pack4_n_r_m_try_charapachi",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack4_n_r_m_try_charapachi/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack4_n_r_m_try_charapachi/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Voiny sveta",
+      "shortTitle": "Voiny sveta",
+      "source": "github",
+      "isRemote": true,
+      "hash": "Nmut_3wgDjINp26pPrNvE9BwBzWFHf67hmQDtg",
+      "priority": 1001,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "555775",
+        "112331",
+        "334553",
+        "35553s3"
+      ],
+      "githubDir": "songs/pack5_voiny_sveta",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack5_voiny_sveta/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack5_voiny_sveta/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Sunny day",
+      "shortTitle": "Sunny day",
+      "source": "github",
+      "isRemote": true,
+      "hash": "JnDUzzqLhhjmDGw0IHh6CrfRe1i3C2e1G038yg",
+      "priority": 123,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "35553s3",
+        "555775",
+        "56775s5",
+        "334553"
+      ],
+      "githubDir": "songs/pack6_sunny_day",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack6_sunny_day/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack6_sunny_day/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack6_sunny_day/solo/0.mid"
+    },
+    {
+      "title": "Jungle",
+      "shortTitle": "Jungle",
+      "source": "github",
+      "isRemote": true,
+      "hash": "ER1Xl9ihhfXMuhUm_ns-xUQn_qgewObsSWdmdA",
+      "priority": 134,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "45467s4",
+        "24442s2",
+        "444664",
+        "556775"
+      ],
+      "githubDir": "songs/pack7_jungle",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack7_jungle/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack7_jungle/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Her Life",
+      "shortTitle": "Her Life",
+      "source": "github",
+      "isRemote": true,
+      "hash": "ahqt_Soc5X-0nEIiof1HCG_PxtYyfwuXDeQVcA",
+      "priority": 133,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "555775",
+        "334553",
+        "112331",
+        "35553s3"
+      ],
+      "githubDir": "songs/pack8_her_life",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack8_her_life/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack8_her_life/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Happy Day",
+      "shortTitle": "Happy Day",
+      "source": "github",
+      "isRemote": true,
+      "hash": "lwlORVk6lklBJCdDUltjRQQ74xRpB-6ZrsvFPg",
+      "priority": 100,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "35553s3",
+        "334553",
+        "555775",
+        "112331"
+      ],
+      "githubDir": "songs/pack9_happy_day",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack9_happy_day/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack9_happy_day/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Flowers On The River",
+      "shortTitle": "Flowers On The River",
+      "source": "github",
+      "isRemote": true,
+      "hash": "7Rm-AK7k2Cr6ltiO2ruIQkdtppVLmTsY80jz8g",
+      "priority": 131,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "01023s3",
+        "112331"
+      ],
+      "githubDir": "songs/pack10_flowers_on_the_river",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack10_flowers_on_the_river/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack10_flowers_on_the_river/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Empty City",
+      "shortTitle": "Empty City",
+      "source": "github",
+      "isRemote": true,
+      "hash": "6eoIcTOLPeSwzydTuPWon2OIXVYJwiaWhHr8SA",
+      "priority": 97,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "000220",
+        "01023s3",
+        "012200"
+      ],
+      "githubDir": "songs/pack11_empty_city",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack11_empty_city/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack11_empty_city/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Bad Boy",
+      "shortTitle": "Bad Boy",
+      "source": "github",
+      "isRemote": true,
+      "hash": "-Y1S8-UeUw_ptyUjVyO6TGrOsng-xGiT3f4LHQ",
+      "priority": 132,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "555775",
+        "334553",
+        "112331",
+        "35553s3",
+        "56775s5"
+      ],
+      "githubDir": "songs/pack12_bad_boy",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack12_bad_boy/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack12_bad_boy/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Gravitation",
+      "shortTitle": "Gravitation",
+      "source": "github",
+      "isRemote": true,
+      "hash": "a9RVHwZ9iJsXLyt1Txj6j9j0tOlDq7FBGl9eUQ",
+      "priority": 101,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "445664",
+        "34553s3",
+        "13331*",
+        "111331",
+        "34356s3"
+      ],
+      "githubDir": "songs/pack13_gravitation",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack13_gravitation/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack13_gravitation/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Follow the River",
+      "shortTitle": "Follow the River",
+      "source": "github",
+      "isRemote": true,
+      "hash": "cu-6Exp6RqIpocOTz9dutSWKbR06sDoePZuytA",
+      "priority": 102,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "35553s3",
+        "555775",
+        "56775s5",
+        "112331",
+        "334553"
+      ],
+      "githubDir": "songs/pack14_follow_the_river",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack14_follow_the_river/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack14_follow_the_river/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Eternity",
+      "shortTitle": "Eternity",
+      "source": "github",
+      "isRemote": true,
+      "hash": "hnG21T0sr8pYf2RJJH8wl6nmVpn7t6tlHSz_fw",
+      "priority": 101,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "34553s3",
+        "667886",
+        "411134",
+        "111331"
+      ],
+      "githubDir": "songs/pack15_eternity",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack15_eternity/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack15_eternity/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Friends",
+      "shortTitle": "Friends",
+      "source": "github",
+      "isRemote": true,
+      "hash": "EoKNJquWyCWxufpr75rPIWhf-gvNrTz97bL7Iw",
+      "priority": 139,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "34356s3",
+        "34553s3",
+        "667886",
+        "445664"
+      ],
+      "githubDir": "songs/pack16_friends",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack16_friends/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack16_friends/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Mountain At My Gates",
+      "shortTitle": "Mountain At My Gates",
+      "source": "github",
+      "isRemote": true,
+      "hash": "M6NUVrLDYF4S1pIu6OcXKnH5xXp6YIdg8CRxsg",
+      "priority": 95,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "000220",
+        "01023s3",
+        "334553",
+        "555775",
+        "23245s2"
+      ],
+      "githubDir": "songs/pack17_mountain_at_my_gates",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack17_mountain_at_my_gates/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack17_mountain_at_my_gates/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack17_mountain_at_my_gates/solo/0.mid"
+    },
+    {
+      "title": "Drive Fast",
+      "shortTitle": "Drive Fast",
+      "source": "github",
+      "isRemote": true,
+      "hash": "sxSutKJhhVhAkTakQEhSRGGdl7YCP-h1c-DgKA",
+      "priority": 129,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "01023s3",
+        "112331",
+        "300023",
+        "23245s2",
+        "001220"
+      ],
+      "githubDir": "songs/pack18_drive_fast",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack18_drive_fast/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack18_drive_fast/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Blue Skies",
+      "shortTitle": "Blue Skies",
+      "source": "github",
+      "isRemote": true,
+      "hash": "xUMPAyKgVCvmAqRxYsW2DmmFldXnawaoo-tAYw",
+      "priority": 128,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "01023s3",
+        "012200",
+        "300023",
+        "112331"
+      ],
+      "githubDir": "songs/pack19_blue_skies",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack19_blue_skies/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack19_blue_skies/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Twinkle Twinkle Little Star",
+      "shortTitle": "Twinkle Twinkle Little Star",
+      "source": "github",
+      "isRemote": true,
+      "hash": "7gdU0BhN_drIcLGsXVAVHDQvJyr_V2pv2eZTIg",
+      "priority": 127,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "01023s3",
+        "112331",
+        "300023"
+      ],
+      "githubDir": "songs/pack20_twinkle_twinkle_little_star",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack20_twinkle_twinkle_little_star/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack20_twinkle_twinkle_little_star/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Greensleeves",
+      "shortTitle": "Greensleeves",
+      "source": "github",
+      "isRemote": true,
+      "hash": "tJUuRRZayyuqbV4fTGwma33oM2mHEI8Q_Gy9aQ",
+      "priority": 126,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "012200",
+        "300023",
+        "112331",
+        "001220",
+        "01023s3"
+      ],
+      "githubDir": "songs/pack21_greensleeves",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack21_greensleeves/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack21_greensleeves/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Cutting Edges",
+      "shortTitle": "Cutting Edges",
+      "source": "github",
+      "isRemote": true,
+      "hash": "zgXaNuMo5ydZ9UEX1QmGit8K1r7bRHIRVIk1lw",
+      "priority": 125,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "56775s5",
+        "334553",
+        "112331",
+        "556775",
+        "35553s3"
+      ],
+      "githubDir": "songs/pack22_cutting_edges",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack22_cutting_edges/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack22_cutting_edges/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Questions",
+      "shortTitle": "Questions",
+      "source": "github",
+      "isRemote": true,
+      "hash": "0oa4nMOONq8SFlFtRAArxItaDq4h1WPiSkCtyg",
+      "priority": 124,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "000220",
+        "012200",
+        "23245s2",
+        "01023s3",
+        "300023"
+      ],
+      "githubDir": "songs/pack23_questions",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack23_questions/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack23_questions/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Starlight Night [Halloween]",
+      "shortTitle": "Starlight Night [Halloween]",
+      "source": "github",
+      "isRemote": true,
+      "hash": "qG9fK6UJsKhh-PDf_S1jCol2yH6K7p6WAbSewQ",
+      "priority": 106,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "57775s5",
+        "35553s3",
+        "23442s2",
+        "13331*"
+      ],
+      "githubDir": "songs/pack24_starlight_night_halloween",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack24_starlight_night_halloween/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack24_starlight_night_halloween/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Era Of Black Mirrors [Halloween]",
+      "shortTitle": "Era Of Black Mirrors [Halloween]",
+      "source": "github",
+      "isRemote": true,
+      "hash": "N73-i6YB5dls8hYVYwttmMxCdhvGiiBwjlKrFw",
+      "priority": 105,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "555775",
+        "111331"
+      ],
+      "githubDir": "songs/pack25_era_of_black_mirrors_halloween",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack25_era_of_black_mirrors_halloween/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack25_era_of_black_mirrors_halloween/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Nightmare [Halloween]",
+      "shortTitle": "Nightmare [Halloween]",
+      "source": "github",
+      "isRemote": true,
+      "hash": "EpmzP3MnvOBTamYdQxm8Ndz4YItFjdhoC52dGg",
+      "priority": 104,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "78997s7",
+        "778997",
+        "68886s6"
+      ],
+      "githubDir": "songs/pack26_nightmare_halloween",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack26_nightmare_halloween/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack26_nightmare_halloween/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Witch song [Halloween]",
+      "shortTitle": "Witch song [Halloween]",
+      "source": "github",
+      "isRemote": true,
+      "hash": "kgC-_GRWOB6-r1MobIlqH89pKQtICQq-Hiwvlg",
+      "priority": 103,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "555775",
+        "445664",
+        "334553",
+        "23245s2"
+      ],
+      "githubDir": "songs/pack27_witch_song_halloween",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack27_witch_song_halloween/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack27_witch_song_halloween/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "All I Need",
+      "shortTitle": "All I Need",
+      "source": "github",
+      "isRemote": true,
+      "hash": "eS0zBrZ1aeF902zybslzNa3SSoLd9tN8gcstbA",
+      "priority": 138,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "35553s3",
+        "555775",
+        "78997s7",
+        "57775s5"
+      ],
+      "githubDir": "songs/pack28_all_i_need",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack28_all_i_need/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack28_all_i_need/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack28_all_i_need/solo/0.mid"
+    },
+    {
+      "title": "Feel It Again",
+      "shortTitle": "Feel It Again",
+      "source": "github",
+      "isRemote": true,
+      "hash": "b_dGFcBQQkPoc2JRcbSHD1orw2IQun4Ys5sC0Q",
+      "priority": 106,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "012200",
+        "01023s3",
+        "112331",
+        "300023",
+        "56775s5"
+      ],
+      "githubDir": "songs/pack29_feel_it_again",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack29_feel_it_again/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack29_feel_it_again/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Silent Night",
+      "shortTitle": "Silent Night",
+      "source": "github",
+      "isRemote": true,
+      "hash": "7F4ZM7A0So1cDGQXu1GE9kS189sZx2gyLcGaew",
+      "priority": 124,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "01023s3",
+        "334553",
+        "112331",
+        "434353",
+        "555775"
+      ],
+      "githubDir": "songs/pack30_silent_night",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack30_silent_night/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack30_silent_night/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Away In A Manger",
+      "shortTitle": "Away In A Manger",
+      "source": "github",
+      "isRemote": true,
+      "hash": "UbsCetI2AY-co_iJgzOQUcd8a9MAEO7FqYU_3g",
+      "priority": 107,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "334553",
+        "23245s2",
+        "01023s3",
+        "000220",
+        "24442s2"
+      ],
+      "githubDir": "songs/pack31_away_in_a_manger",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack31_away_in_a_manger/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack31_away_in_a_manger/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Jingle Bells",
+      "shortTitle": "Jingle Bells",
+      "source": "github",
+      "isRemote": true,
+      "hash": "wxptmu5-wMudoCfKSWYm7Lu_AritmJqZHuk1CA",
+      "priority": 108,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "334553",
+        "35553s3",
+        "57775s5",
+        "556775",
+        "555775"
+      ],
+      "githubDir": "songs/pack32_jingle_bells",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack32_jingle_bells/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack32_jingle_bells/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "We Wish You A Merry Christmas",
+      "shortTitle": "We Wish You A Merry Christmas",
+      "source": "github",
+      "isRemote": true,
+      "hash": "fXQsL0Jf0LS1SMQYPZx73Ixtb6dUV67Wsai6OA",
+      "priority": 107,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "112331",
+        "13331*",
+        "334553",
+        "35553s3",
+        "556775"
+      ],
+      "githubDir": "songs/pack33_we_wish_you_a_merry_christmas",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack33_we_wish_you_a_merry_christmas/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack33_we_wish_you_a_merry_christmas/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "House Of The Rising Sun",
+      "shortTitle": "House Of The Rising Sun",
+      "source": "github",
+      "isRemote": true,
+      "hash": "o2ZqMh5tAdejf6NtTk8cHzZRS98OVNbkgxkFFQ",
+      "priority": 106,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "012200",
+        "01023s3",
+        "2320**",
+        "112331",
+        "001220"
+      ],
+      "githubDir": "songs/pack34_house_of_the_rising_sun",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack34_house_of_the_rising_sun/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack34_house_of_the_rising_sun/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "O Come, O Come, Emmanuel",
+      "shortTitle": "O Come, O Come, Emmanuel",
+      "source": "github",
+      "isRemote": true,
+      "hash": "rjh_i4uxvue_3Ul9zy9ZSXcckxEqDdtcyOVYZQ",
+      "priority": 108,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "334553",
+        "01023s3",
+        "012200",
+        "2320**",
+        "000220"
+      ],
+      "githubDir": "songs/pack35_o_come_o_come_emmanuel",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack35_o_come_o_come_emmanuel/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack35_o_come_o_come_emmanuel/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Oh, Susanna!",
+      "shortTitle": "Oh, Susanna!",
+      "source": "github",
+      "isRemote": true,
+      "hash": "GZJHq2Zb64gmZbFyDa4cOn4fRJlVC99NVKfnqA",
+      "priority": 109,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "68886s6",
+        "667886",
+        "445664"
+      ],
+      "githubDir": "songs/pack36_oh_susanna",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack36_oh_susanna/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack36_oh_susanna/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Une souris verte",
+      "shortTitle": "Une souris verte",
+      "source": "github",
+      "isRemote": true,
+      "hash": "PRMgp9mLcsZcQdLuKciQ8DIAnRC9cAbashqCbQ",
+      "priority": 110,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "334553",
+        "012200",
+        "2320**",
+        "01023s3"
+      ],
+      "githubDir": "songs/pack37_une_souris_verte",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack37_une_souris_verte/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack37_une_souris_verte/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Frère Jacques",
+      "shortTitle": "Frère Jacques",
+      "source": "github",
+      "isRemote": true,
+      "hash": "s-qn8XL32GTd66yhKmYCPQNmcwloZt469ZeqoQ",
+      "priority": 111,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "112331",
+        "1320**",
+        "13331*"
+      ],
+      "githubDir": "songs/pack38_fre_re_jacques",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack38_fre_re_jacques/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack38_fre_re_jacques/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Green Valley",
+      "shortTitle": "Green Valley",
+      "source": "github",
+      "isRemote": true,
+      "hash": "UNS3lyFXldJ8vffjrgRnEUxcuUYAMCVm_jyBdw",
+      "priority": 137,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "334553",
+        "23245s2",
+        "555775",
+        "35553s3"
+      ],
+      "githubDir": "songs/pack39_green_valley",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack39_green_valley/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack39_green_valley/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack39_green_valley/solo/0.mid"
+    },
+    {
+      "title": "When The Saints Go Marching In",
+      "shortTitle": "When The Saints Go Marching In",
+      "source": "github",
+      "isRemote": true,
+      "hash": "hfm5RtDSif-fc6hGXJ_gQRbfzeQ5Dc2imefMSw",
+      "priority": 112,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "01023s3",
+        "334553",
+        "112331",
+        "46664s4",
+        "445664"
+      ],
+      "githubDir": "songs/pack40_when_the_saints_go_marching_in",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack40_when_the_saints_go_marching_in/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack40_when_the_saints_go_marching_in/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Auld Lang Syne",
+      "shortTitle": "Auld Lang Syne",
+      "source": "github",
+      "isRemote": true,
+      "hash": "_hp_4zbDHwGFZNel3k4cFgKVTqeL03XvQa5psA",
+      "priority": 113,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "01023s3",
+        "300023",
+        "112331",
+        "012200"
+      ],
+      "githubDir": "songs/pack41_auld_lang_syne",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack41_auld_lang_syne/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack41_auld_lang_syne/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Down By The Riverside",
+      "shortTitle": "Down By The Riverside",
+      "source": "github",
+      "isRemote": true,
+      "hash": "ojjreh3Wl772uuS9vrUlJT_gvKIVa2rCXlCtIA",
+      "priority": 114,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "300023",
+        "2320**",
+        "01023s3",
+        "000220"
+      ],
+      "githubDir": "songs/pack42_down_by_the_riverside",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack42_down_by_the_riverside/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack42_down_by_the_riverside/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Amazing Grace",
+      "shortTitle": "Amazing Grace",
+      "source": "github",
+      "isRemote": true,
+      "hash": "oRTYsY9ea5GyQV2QbJZOAOpE2izB2vPNvOzB2Q",
+      "priority": 115,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "2320**",
+        "300023",
+        "02220*",
+        "23442s2"
+      ],
+      "githubDir": "songs/pack43_amazing_grace",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack43_amazing_grace/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack43_amazing_grace/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "El Buen Rey Wenceslao",
+      "shortTitle": "El Buen Rey Wenceslao",
+      "source": "github",
+      "isRemote": true,
+      "hash": "tW9B5DANF51XHkTNikBoVIULv8hMFR0umPJF9w",
+      "priority": 116,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "445664",
+        "46664s4",
+        "34356s3",
+        "111331"
+      ],
+      "githubDir": "songs/pack44_el_buen_rey_wenceslao",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack44_el_buen_rey_wenceslao/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack44_el_buen_rey_wenceslao/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Hoochy Coochy East Dance",
+      "shortTitle": "Hoochy Coochy East Dance",
+      "source": "github",
+      "isRemote": true,
+      "hash": "ndrbibEsgF7rfaiDHjB9ZSqeQnwYtpTNmbaAHA",
+      "priority": 117,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "34553s3",
+        "111331",
+        "667886",
+        "68886s6",
+        "445664"
+      ],
+      "githubDir": "songs/pack45_hoochy_coochy_east_dance",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack45_hoochy_coochy_east_dance/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack45_hoochy_coochy_east_dance/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Black Velvet",
+      "shortTitle": "Black Velvet",
+      "source": "github",
+      "isRemote": true,
+      "hash": "vbC34yzYQ5KZfbGL8Q04q6GdG_n5mHmP4y8M1A",
+      "priority": 118,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "334553",
+        "2320**"
+      ],
+      "githubDir": "songs/pack46_black_velvet",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack46_black_velvet/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack46_black_velvet/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Ten Little Indians",
+      "shortTitle": "Ten Little Indians",
+      "source": "github",
+      "isRemote": true,
+      "hash": "qYWYG4t49XlQq_5W51yp_09U-aKhvMHNgDp6RQ",
+      "priority": 119,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "35553s3",
+        "334553"
+      ],
+      "githubDir": "songs/pack47_ten_little_indians",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack47_ten_little_indians/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack47_ten_little_indians/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "My Game",
+      "shortTitle": "My Game",
+      "source": "github",
+      "isRemote": true,
+      "hash": "SOaL70_2mi2jzTnNBRZmqrAUNZoqSnQw38k0rA",
+      "priority": 120,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "56775s5",
+        "13331*",
+        "333553",
+        "01023s3"
+      ],
+      "githubDir": "songs/pack48_my_game",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack48_my_game/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack48_my_game/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Way To Stay",
+      "shortTitle": "Way To Stay",
+      "source": "github",
+      "isRemote": true,
+      "hash": "h3oA-E4NBOJND7C312Q-9xSSdZ0oK0eJw16rEQ",
+      "priority": 121,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "23442s2",
+        "02220*",
+        "000220",
+        "23245s2"
+      ],
+      "githubDir": "songs/pack49_way_to_stay",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack49_way_to_stay/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack49_way_to_stay/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Long Road",
+      "shortTitle": "Long Road",
+      "source": "github",
+      "isRemote": true,
+      "hash": "jiFBwJzxGHuXUqz1GnJ2tCImMVU-jzlwUPefgA",
+      "priority": 99,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "777997",
+        "334553",
+        "57775s5"
+      ],
+      "githubDir": "songs/pack50_long_road",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack50_long_road/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack50_long_road/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack50_long_road/solo/0.mid"
+    },
+    {
+      "title": "Feel It Again",
+      "shortTitle": "Feel It Again",
+      "source": "github",
+      "isRemote": true,
+      "hash": "b_dGFcBQQkPoc2JRcbSHD1orw2IQun4Ys5sC0Q",
+      "priority": 122,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "012200",
+        "01023s3",
+        "112331",
+        "300023",
+        "56775s5"
+      ],
+      "githubDir": "songs/pack51_feel_it_again",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack51_feel_it_again/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack51_feel_it_again/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Habanera",
+      "shortTitle": "Habanera",
+      "source": "github",
+      "isRemote": true,
+      "hash": "5c8AIQe8Y2GKeZwKH1WSB-74FeMl7kJRO9z-sA",
+      "priority": 999,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "56775s5",
+        "556575"
+      ],
+      "githubDir": "songs/pack52_habanera",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack52_habanera/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack52_habanera/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Dance of the Little Swans",
+      "shortTitle": "Dance of the Little Swans",
+      "source": "github",
+      "isRemote": true,
+      "hash": "vmgBbxObtto7dTkPyTO3aNIQq-mw2Ia10iALJA",
+      "priority": 999,
+      "locked": false,
+      "availableOnlyInFull": false,
+      "chords": [
+        "333553",
+        "112331"
+      ],
+      "githubDir": "songs/pack53_dance_of_the_little_swans",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack53_dance_of_the_little_swans/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack53_dance_of_the_little_swans/chord/0.mp3",
+      "soloMidiUrl": null
+    },
+    {
+      "title": "Sunday Morning",
+      "shortTitle": "Sunday Morning",
+      "source": "github",
+      "isRemote": true,
+      "hash": "cTPXVRTTRnicH1Vdjrh76VMOqp-q4sRfLbZS2w",
+      "priority": 136,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "35553s3",
+        "333553",
+        "112331",
+        "334553"
+      ],
+      "githubDir": "songs/pack54_sunday_morning",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack54_sunday_morning/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack54_sunday_morning/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack54_sunday_morning/solo/0.mid"
+    },
+    {
+      "title": "Shine",
+      "shortTitle": "Shine",
+      "source": "github",
+      "isRemote": true,
+      "hash": "v7ZEPj-EKEr5YmkFgVYUNx9KXGm6ownnf1NyjQ",
+      "priority": 98,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "555775",
+        "112331",
+        "35553s3"
+      ],
+      "githubDir": "songs/pack55_shine",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack55_shine/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack55_shine/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack55_shine/solo/0.mid"
+    },
+    {
+      "title": "Rock On",
+      "shortTitle": "Rock On",
+      "source": "github",
+      "isRemote": true,
+      "hash": "cyNoGlT-NbFLSTLZ1ALzSYAb-IPTHgbMFdLvOw",
+      "priority": 135,
+      "locked": true,
+      "availableOnlyInFull": false,
+      "chords": [
+        "34553s3",
+        "112331",
+        "13331*"
+      ],
+      "githubDir": "songs/pack56_rock_on",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack56_rock_on/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack56_rock_on/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack56_rock_on/solo/0.mid"
+    },
+    {
+      "title": "Pages",
+      "shortTitle": "Pages",
+      "source": "github",
+      "isRemote": true,
+      "hash": "NdKhU2ba8pxsy6EW24oYNWvwMrOzqGbvABm-aA",
+      "priority": 130,
+      "locked": false,
+      "availableOnlyInFull": true,
+      "chords": [
+        "01023s3",
+        "012200",
+        "000220",
+        "23245s2"
+      ],
+      "githubDir": "songs/pack57_pages",
+      "midiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack57_pages/chord/0.mid",
+      "mp3Url": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack57_pages/chord/0.mp3",
+      "soloMidiUrl": "https://raw.githubusercontent.com/bazookahaudt/data-gt/master/songs/pack57_pages/solo/0.mid"
+    }
+  ]
+}
